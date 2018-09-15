@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "Mohamad Makkawi's blog"
 url: "https://makka3strap.github.io"
-title: Mohamad Makkawi's blog # site's title
+title: Mohamad Makkawi's Blog # site's title
 description: "A much more enhanced website with a predone theme" # used by search engines
 
 
